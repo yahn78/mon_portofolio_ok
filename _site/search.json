@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A propos de moi",
+    "section": "",
+    "text": "Statisticien et Data Scientist expérimenté, je suis spécialisé dans l’analyse de données, la modélisation prédictive, et le développement de solutions analytiques sur mesure. Fort d’une expertise en traitement et visualisation de données, je maîtrise des outils tels que Python, R, Power BI et PostgreSQL pour transformer des données complexes en informations stratégiques. J’ai contribué à divers projets, notamment en suivi-évaluation, marketing et finance, en mettant l’accent sur la prise de décision basée sur les données. Mon approche collaborative et mon sens de la responsabilité me permettent de répondre efficacement aux défis liés à la gestion et à l’interprétation des données."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Analyse des ventes de Garba choco",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n1 + 1 \n\n[1] 2"
+  },
+  {
+    "objectID": "travaux.html",
+    "href": "travaux.html",
+    "title": "Mes Travaux",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyse des ventes de Garba choco\n\n\n\n\n\n\nnews\n\n\nanalysis\n\n\ncode\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 1, 2024\n\n\nYahanan Anassé\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Yahanan Anassé",
+    "section": "",
+    "text": "reservé pour mon CV"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "Mes travaux",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]

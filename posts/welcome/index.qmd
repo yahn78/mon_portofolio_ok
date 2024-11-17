@@ -1,0 +1,16 @@
+---
+title: "Analyse des ventes de Garba choco"
+author: "Yahanan Anassé"
+date: "2024-08-01"
+categories: [news, analysis, code, r]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+
+```{r}
+1 + 1 
+```

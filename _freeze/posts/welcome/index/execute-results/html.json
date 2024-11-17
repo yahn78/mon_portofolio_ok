@@ -1,0 +1,15 @@
+{
+  "hash": "719cc46d18e0ad7cb11aae9ac269202e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Analyse des ventes de Garba choco\"\nauthor: \"Yahanan Anassé\"\ndate: \"2024-08-01\"\ncategories: [news, Analysis, code, r]\n---\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n![](thumbnail.jpg)\n\nSince this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1 \n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
